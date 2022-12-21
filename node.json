@@ -280,13 +280,6 @@
         "symbolSize": 22.5
     },
     {
-        "id": "61",
-        "name": "小缘",
-        "value": 5561,
-        "category": 1,
-        "symbolSize": 16.61
-    },
-    {
         "id": "106",
         "name": "神楽Mea_NHOTBOT",
         "value": 4590,
@@ -539,13 +532,6 @@
         "symbolSize": 10.61
     },
     {
-        "id": "123",
-        "name": "凛-阿格里亚斯",
-        "value": 2172,
-        "category": 3,
-        "symbolSize": 10.29
-    },
-    {
         "id": "102",
         "name": "杜铂雷Dobre",
         "value": 2084,
@@ -553,53 +539,53 @@
         "symbolSize": 10.13
     },
     {
-        "id": "128",
-        "name": "泛式",
-        "value": 17580,
+        "id": "142",
+        "name": "逍遥散人",
+        "value": 39570,
         "category": 4,
-        "symbolSize": 39.01
+        "symbolSize": 80.0
     },
     {
-        "id": "60",
-        "name": "瓶子君152",
-        "value": 16560,
+        "id": "25",
+        "name": "某幻君",
+        "value": 25020,
         "category": 4,
-        "symbolSize": 37.11
+        "symbolSize": 52.88
     },
     {
-        "id": "59",
-        "name": "花花Haya",
-        "value": 7543,
+        "id": "30",
+        "name": "花少北丶",
+        "value": 24930,
         "category": 4,
-        "symbolSize": 20.3
+        "symbolSize": 52.71
     },
     {
-        "id": "99",
-        "name": "月隐空夜",
-        "value": 4140,
+        "id": "125",
+        "name": "KB呆又呆",
+        "value": 14100,
         "category": 4,
-        "symbolSize": 13.96
+        "symbolSize": 32.52
     },
     {
-        "id": "115",
-        "name": "艾尔莎_Channel",
-        "value": 3460,
+        "id": "71",
+        "name": "老番茄",
+        "value": 10800,
         "category": 4,
-        "symbolSize": 12.69
+        "symbolSize": 26.37
     },
     {
-        "id": "132",
-        "name": "依然小智",
-        "value": 3228,
+        "id": "104",
+        "name": "LexBurner",
+        "value": 6570,
         "category": 4,
-        "symbolSize": 12.26
+        "symbolSize": 18.49
     },
     {
-        "id": "111",
-        "name": "木糖纯Official",
-        "value": 2040,
+        "id": "24",
+        "name": "中国BOY超级大猩猩",
+        "value": 5280,
         "category": 4,
-        "symbolSize": 10.04
+        "symbolSize": 16.08
     },
     {
         "id": "5",
@@ -651,186 +637,179 @@
         "symbolSize": 10.03
     },
     {
-        "id": "142",
-        "name": "逍遥散人",
-        "value": 39570,
-        "category": 6,
-        "symbolSize": 80.0
-    },
-    {
-        "id": "25",
-        "name": "某幻君",
-        "value": 25020,
-        "category": 6,
-        "symbolSize": 52.88
-    },
-    {
-        "id": "30",
-        "name": "花少北丶",
-        "value": 24930,
-        "category": 6,
-        "symbolSize": 52.71
-    },
-    {
-        "id": "125",
-        "name": "KB呆又呆",
-        "value": 14100,
-        "category": 6,
-        "symbolSize": 32.52
-    },
-    {
-        "id": "71",
-        "name": "老番茄",
-        "value": 10800,
-        "category": 6,
-        "symbolSize": 26.37
-    },
-    {
-        "id": "104",
-        "name": "LexBurner",
-        "value": 6570,
-        "category": 6,
-        "symbolSize": 18.49
-    },
-    {
-        "id": "24",
-        "name": "中国BOY超级大猩猩",
-        "value": 5280,
-        "category": 6,
-        "symbolSize": 16.08
-    },
-    {
         "id": "117",
         "name": "EdmundDZhang",
         "value": 30270,
-        "category": 7,
+        "category": 6,
         "symbolSize": 62.66
     },
     {
         "id": "34",
         "name": "C酱です",
         "value": 28665,
-        "category": 7,
+        "category": 6,
         "symbolSize": 59.67
     },
     {
         "id": "88",
         "name": "神奇陆夫人",
         "value": 13396,
-        "category": 7,
+        "category": 6,
         "symbolSize": 31.21
     },
     {
         "id": "9",
         "name": "少年Pi",
         "value": 12570,
-        "category": 7,
+        "category": 6,
         "symbolSize": 29.67
     },
     {
         "id": "33",
         "name": "Yommyko",
         "value": 2809,
-        "category": 7,
+        "category": 6,
         "symbolSize": 11.48
     },
     {
         "id": "8",
         "name": "烤鱼子Official",
         "value": 2530,
-        "category": 7,
+        "category": 6,
         "symbolSize": 10.96
     },
     {
         "id": "45",
         "name": "hanser",
         "value": 23250,
-        "category": 8,
+        "category": 7,
         "symbolSize": 49.58
     },
     {
         "id": "84",
         "name": "宴宁ccccc",
         "value": 7968,
-        "category": 8,
+        "category": 7,
         "symbolSize": 21.09
     },
     {
         "id": "103",
         "name": "shourei小N",
         "value": 7721,
-        "category": 8,
+        "category": 7,
         "symbolSize": 20.63
     },
     {
         "id": "86",
         "name": "多多poi丶",
         "value": 6535,
-        "category": 8,
+        "category": 7,
         "symbolSize": 18.42
+    },
+    {
+        "id": "61",
+        "name": "小缘",
+        "value": 5561,
+        "category": 7,
+        "symbolSize": 16.61
     },
     {
         "id": "83",
         "name": "花园花玲",
         "value": 5070,
-        "category": 8,
+        "category": 7,
         "symbolSize": 15.69
     },
     {
-        "id": "80",
-        "name": "大祥哥来了",
-        "value": 14460,
-        "category": 9,
-        "symbolSize": 33.2
+        "id": "59",
+        "name": "花花Haya",
+        "value": 7543,
+        "category": 8,
+        "symbolSize": 20.3
     },
     {
-        "id": "79",
-        "name": "棉花大哥哥",
-        "value": 5187,
-        "category": 9,
-        "symbolSize": 15.91
+        "id": "99",
+        "name": "月隐空夜",
+        "value": 4140,
+        "category": 8,
+        "symbolSize": 13.96
     },
     {
-        "id": "143",
-        "name": "卡特亚",
-        "value": 5040,
-        "category": 9,
-        "symbolSize": 15.64
+        "id": "115",
+        "name": "艾尔莎_Channel",
+        "value": 3460,
+        "category": 8,
+        "symbolSize": 12.69
     },
     {
-        "id": "157",
-        "name": "痒局长",
-        "value": 3000,
-        "category": 9,
-        "symbolSize": 11.83
+        "id": "132",
+        "name": "依然小智",
+        "value": 3228,
+        "category": 8,
+        "symbolSize": 12.26
+    },
+    {
+        "id": "111",
+        "name": "木糖纯Official",
+        "value": 2040,
+        "category": 8,
+        "symbolSize": 10.04
     },
     {
         "id": "68",
         "name": "凉哈皮",
         "value": 20030,
-        "category": 10,
+        "category": 9,
         "symbolSize": 43.58
     },
     {
         "id": "148",
         "name": "老骚豆腐",
         "value": 14430,
-        "category": 10,
+        "category": 9,
         "symbolSize": 33.14
     },
     {
         "id": "147",
         "name": "OldBa1",
         "value": 11186,
-        "category": 10,
+        "category": 9,
         "symbolSize": 27.09
     },
     {
         "id": "119",
         "name": "飙黑车的司机",
         "value": 7310,
-        "category": 10,
+        "category": 9,
         "symbolSize": 19.87
+    },
+    {
+        "id": "63",
+        "name": "甜药Jamren",
+        "value": 13684,
+        "category": 10,
+        "symbolSize": 31.75
+    },
+    {
+        "id": "150",
+        "name": "库库_sama",
+        "value": 11993,
+        "category": 10,
+        "symbolSize": 28.6
+    },
+    {
+        "id": "62",
+        "name": "飞天狙想要努力变胖",
+        "value": 11234,
+        "category": 10,
+        "symbolSize": 27.18
+    },
+    {
+        "id": "141",
+        "name": "荔枝Kouun",
+        "value": 5498,
+        "category": 10,
+        "symbolSize": 16.49
     },
     {
         "id": "98",
@@ -861,95 +840,88 @@
         "symbolSize": 13.02
     },
     {
-        "id": "63",
-        "name": "甜药Jamren",
-        "value": 13684,
-        "category": 12,
-        "symbolSize": 31.75
-    },
-    {
-        "id": "150",
-        "name": "库库_sama",
-        "value": 11993,
-        "category": 12,
-        "symbolSize": 28.6
-    },
-    {
-        "id": "62",
-        "name": "飞天狙想要努力变胖",
-        "value": 11234,
-        "category": 12,
-        "symbolSize": 27.18
-    },
-    {
-        "id": "141",
-        "name": "荔枝Kouun",
-        "value": 5498,
-        "category": 12,
-        "symbolSize": 16.49
-    },
-    {
         "id": "95",
         "name": "恬豆发芽了",
         "value": 3276,
-        "category": 13,
+        "category": 12,
         "symbolSize": 12.35
     },
     {
         "id": "138",
         "name": "AIChannel中国绊爱",
         "value": 2820,
-        "category": 13,
+        "category": 12,
         "symbolSize": 11.5
     },
     {
         "id": "16",
         "name": "宣小纸不怕火",
         "value": 2798,
-        "category": 13,
+        "category": 12,
         "symbolSize": 11.46
     },
     {
         "id": "29",
         "name": "蒲熠星",
         "value": 18167,
-        "category": 14,
+        "category": 13,
         "symbolSize": 40.11
     },
     {
         "id": "28",
         "name": "文韬Stefan",
         "value": 14896,
-        "category": 14,
+        "category": 13,
         "symbolSize": 34.01
     },
     {
         "id": "39",
         "name": "黄子弘凡-Lars",
         "value": 4671,
-        "category": 14,
+        "category": 13,
         "symbolSize": 14.95
     },
     {
         "id": "58",
         "name": "赵俊日",
         "value": 3944,
-        "category": 15,
+        "category": 14,
         "symbolSize": 13.59
     },
     {
         "id": "105",
         "name": "解说Mage",
         "value": 3873,
-        "category": 15,
+        "category": 14,
         "symbolSize": 13.46
     },
     {
         "id": "57",
         "name": "LGDPYL116",
         "value": 3329,
-        "category": 15,
+        "category": 14,
         "symbolSize": 12.45
+    },
+    {
+        "id": "80",
+        "name": "大祥哥来了",
+        "value": 14460,
+        "category": 15,
+        "symbolSize": 33.2
+    },
+    {
+        "id": "79",
+        "name": "棉花大哥哥",
+        "value": 5187,
+        "category": 15,
+        "symbolSize": 15.91
+    },
+    {
+        "id": "143",
+        "name": "卡特亚",
+        "value": 5040,
+        "category": 15,
+        "symbolSize": 15.64
     },
     {
         "id": "136",
@@ -980,32 +952,32 @@
         "symbolSize": 10.63
     },
     {
-        "id": "52",
-        "name": "Asaki大人",
-        "value": 20340,
-        "category": 18,
-        "symbolSize": 44.16
-    },
-    {
-        "id": "162",
-        "name": "两仪滚",
-        "value": 13808,
-        "category": 18,
-        "symbolSize": 31.98
-    },
-    {
         "id": "151",
         "name": "LGD_Ame",
         "value": 7465,
-        "category": 19,
+        "category": 18,
         "symbolSize": 20.16
     },
     {
         "id": "55",
         "name": "dodo_Official",
         "value": 3038,
-        "category": 19,
+        "category": 18,
         "symbolSize": 11.9
+    },
+    {
+        "id": "128",
+        "name": "泛式",
+        "value": 17580,
+        "category": 19,
+        "symbolSize": 39.01
+    },
+    {
+        "id": "60",
+        "name": "瓶子君152",
+        "value": 16560,
+        "category": 19,
+        "symbolSize": 37.11
     },
     {
         "id": "94",
@@ -1022,32 +994,32 @@
         "symbolSize": 19.91
     },
     {
+        "id": "137",
+        "name": "黑桐谷歌",
+        "value": 4170,
+        "category": 21,
+        "symbolSize": 14.02
+    },
+    {
+        "id": "157",
+        "name": "痒局长",
+        "value": 3000,
+        "category": 21,
+        "symbolSize": 11.83
+    },
+    {
         "id": "146",
         "name": "sh7adow",
         "value": 3960,
-        "category": 21,
+        "category": 22,
         "symbolSize": 13.62
     },
     {
         "id": "67",
         "name": "温柔的安酱",
         "value": 2189,
-        "category": 21,
+        "category": 22,
         "symbolSize": 10.32
-    },
-    {
-        "id": "167",
-        "name": "-纯黑-",
-        "value": 4650,
-        "category": 22,
-        "symbolSize": 14.91
-    },
-    {
-        "id": "137",
-        "name": "黑桐谷歌",
-        "value": 4170,
-        "category": 22,
-        "symbolSize": 14.02
     },
     {
         "id": "159",
@@ -1064,17 +1036,31 @@
         "symbolSize": 15.63
     },
     {
+        "id": "52",
+        "name": "Asaki大人",
+        "value": 20340,
+        "category": 24,
+        "symbolSize": 44.16
+    },
+    {
+        "id": "162",
+        "name": "两仪滚",
+        "value": 13808,
+        "category": 24,
+        "symbolSize": 31.98
+    },
+    {
         "id": "175",
         "name": "小霖QL",
         "value": 13680,
-        "category": 24,
+        "category": 25,
         "symbolSize": 31.74
     },
     {
         "id": "172",
         "name": "雷雨Lyy",
         "value": 10470,
-        "category": 24,
+        "category": 25,
         "symbolSize": 25.76
     }
 ]
