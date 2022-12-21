@@ -1,9 +1,9 @@
 <!--
-	此示例下载自 https://echarts.apache.org/examples/zh/editor.html?c=graph&theme=dark&code=LYTwwgFghgTgLgOgM4QPYHcAyqoBMCWAdgOYAUAlANwBQAJAsQKZwBSAygPIBypAShxwAqAfQAKAQUEAJAAQBqGQHIA9LihwoyqEiTNV6zQBtGSALTB8umFABGxpAgBWSVIUUAaGQDMAroQDGcPiuMqTE1gAOEOQyAN7UMjKgkLCIEPi4jNh4RGRUCTLhUFEIhKiZDl6oMACiUP4QpL4BQSGkZZkx8YmJHYwIhraMhjIAvHEFPTIoGABcMn3IIMA2qIZs-ABejDIAfDIAzAAMkzIAvjSJZ_mJqBGthGMTU0FwxvPdUzJwjAAecPNFJgTDIALKWRjWOwmDynRJIHw2H7_QEAEUYXigPkMcBkgxAqB8cFhX2-d0BqzgcFQwBJX2MXgBShg-GIEGJpzO7lO1LWQQiHy5p2MTEIuHmAG04c9STJlMppsNGIFGLhQeVGICkLljHTSWoNPMiiV_OpGMRqvgTAhgMUmn5AsFHqQoF1pVMYMwfDBHlBSlBgIxLrLrtKzqcALrcqZQQj4W0PVHe9RO-YARgArEcjtGerH4ynXHVtSQAKoRA2apQARx8RCC_gAkoQOES9YqWSZJdLPqTCAGq0CQeCrLZ7O2XiAIoPjRAJz18YSmYoyoRGPPEgaoEbIhBShqkLnSYYiABrJA74p7k-Ec9Hr6mn4WzsXwq7hCP82Wkz3j04YDzHAMA-Iwv4LkMhgfO6PQRKg2oPICLJssSYFTFUMAJj8MCArENhnIo0FCrKeJEIwbBwCA7wysR_hrNUWqEjA_jrqhPT-N6ABujBrjo8xHAgByEaxjDAFE2iWFBxGJFU7GvooeCOPU3H-CAG4LqR5GUVWvZSegGRwBA6YnFJ5yEWGkYFBcBTJNA8DIMwHD3E6pB3A8-TXJQQA
-	⚠ 请注意，该图表不是 Apache ECharts 官方示例，而是由用户代码生成的。请注意鉴别其内容。
+	THIS EXAMPLE WAS DOWNLOADED FROM https://echarts.apache.org/examples/en/editor.html?c=graph-force&code=LYTwwgFghgTgLgOgM4QPYHcAyqoBMCWAdgOYAUAlANwBQA9LQAQAkCxApnKQEoDyPAKgH0ACgEF-ACQYBqBgHJauKHCi0oSJB0XLVAGzZIAtMHyaYUAEb6kCAFZJUhOQBoGAMwCuhAMZx8jhlJicwAHCHIGAG9qFnZOOQg4OBCkAC56EPU4NgsiBG9UYFpzdFo4AFZ0AFEAOTAAN1EXdy9ff0JA4KgwiOiGBlBIWEQIfFw2bDwiMipqfq6whEJUcZs3VBgqqG8IUk8fPwDSZfHeuf6GE7YEXUs2XQYAXijzi4YUDFTLleukEGALKhdABlfAALzYAD4GOVXgwAL40frw2b9VAhQ4dZ59C5-OD6L44t7ZAAecC-cgAQvhdPhcrSGMC4DA2FBgGwYAwwIVgF58HAQAwACIcNhtRwuOH9JAeCyk8nyEVuKAeXRwBi3ECoDxwSVvfpwdEUwFJQp6_X6NwKuQwfDERJyOHw5xww1AvwhQnOuH6diEXBfADaUpe-ou9He9zF2VwAFkfhSkNN9Oaw0oVF8FhB8so2MQNvgDAhgN09q1MYEoGcw28WXAPDAOlAlmy2EiayiQ_C4QBdF1vMyFtIMYNhon6witik1H4MGqt1P6gUhNgUrOLt6a7XW9YwbxsDcXdNQTOhbNXJD9mu0wgAa2HWZuRHvV7D3lz-dtBlP3Wz7-yn5Dq--owDgwBfMyHhsMBm53LohIhm8ISoEmmIUo6NYIjBFz8mwwBMiABKhphJH9ICMDjDA3K6BsFIAMRuIxh6kW85GUQA6mMcAQF8ACM2EsRcKB4BglK6A2fEAAwCYJ7zQLgGDUbR8gwMQFhQKQ0kMFpOkIAAzOQGEdjJu77ghpEsiEqpJo4XzlNJiEXF09T8iAXySQgvGOd6mE3mwBFEeOb5AspcgOA2-7MRc3gNvUbCEAYw4eZJ3kyXhYTqKY5kkesMXDnIeC2Ns8XeCAUX9H5AWrsRpHoFxPEMLxsKkd2mGtfq7X9D25yIucgzQPAyAcDwGLtKQ6KYrMKKUEAA
+	⚠ Please be aware that this chart is not an official demo of Apache ECharts but is made by user-generated code.
 -->
 <!DOCTYPE html>
-<html lang="zh-CN" style="height: 100%">
+<html lang="en" style="height: 100%">
 <head>
   <meta charset="utf-8">
 </head>
@@ -41,16 +41,24 @@
     var option;
 
     myChart.showLoading();
-$.getJSON(ROOT_PATH + '/data/asset/data/les-miserables.json', function (graph) {
+// $.get(ROOT_PATH + '/data/asset/data/les-miserables.json', function (graph) {
+// $.get('https://raw.githubusercontent.com/SummerXIATIAN/bili-community-detection/master/visualization/mydata_all.json', function (graph) { 
+$.get('https://raw.githubusercontent.com/SummerXIATIAN/bili-community-detection/master/visualization/mydata.json', function (graph) { 
+// $.get('https://pastebin.com/raw/uUNTbpFW', function (graph) { 
   myChart.hideLoading();
   graph.nodes.forEach(function (node) {
     node.label = {
-      show: node.symbolSize > 30
+      show: node.symbolSize > 30.5
+    };
+  });
+  graph.links.forEach(function (link) {
+    link.label = {
+      show: link.weight > 0.6,
     };
   });
   option = {
     title: {
-      text: 'Les Miserables',
+      text: 'Bilibili Streamer Community Detection',
       subtext: 'Default layout',
       top: 'bottom',
       left: 'right'
@@ -64,44 +72,58 @@ $.getJSON(ROOT_PATH + '/data/asset/data/les-miserables.json', function (graph) {
         })
       }
     ],
-    animationDuration: 1500,
-    animationEasingUpdate: 'quinticInOut',
     series: [
       {
-        name: 'Les Miserables',
+        name: 'Node Name',
         type: 'graph',
-        layout: 'none',
+        layout: 'force',
         data: graph.nodes,
         links: graph.links,
+        // categories: "A",
         categories: graph.categories,
-        // focusNodeAdjacency: true,
         roam: true,
+        label: {
+          position: ''
+        },
+        edgeLabel: {
+            show: true,
+            color: '#000',
+            fontSize: 10,
+            formatter: function (params) {
+                return params.data.weight;
+            }
+        },
+        draggable: true,
         itemStyle: {
                     borderColor: '#fff',
                     borderWidth: 1,
                     shadowBlur: 10,
                     shadowColor: 'rgba(0, 0, 0, 0.3)'
         },
-        label: {
-          position: 'right',
-          formatter: '{b}'
+        force: {
+          // edgeLength: 30,
+          repulsion: 50,
+          gravity: 0.1,
+          layoutAnimation: true,
+          // friction: 0.5
         },
         lineStyle: {
           color: 'source',
-          curveness: 0.3
+          width: 1,
+          opacity: 0.5,
+          curveness: 0.0
         },
         emphasis: {
           focus: 'adjacency',
           lineStyle: {
-            width: 10
-          }
+            width: 12
+          },
         }
       }
     ]
   };
   myChart.setOption(option);
 });
-
 
     if (option && typeof option === 'object') {
       myChart.setOption(option);

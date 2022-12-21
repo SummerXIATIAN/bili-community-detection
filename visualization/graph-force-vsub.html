@@ -48,12 +48,12 @@ $.get('https://pastebin.com/raw/PB2RgYnA', function (graph) { //V-sub
   myChart.hideLoading();
   graph.nodes.forEach(function (node) {
     node.label = {
-      show: node.symbolSize> 118
+      show: node.symbolSize> 18
     };
   });
   graph.links.forEach(function (link) {
     link.label = {
-      show: link.weight > 10.5,
+      show: link.weight > 1.5,
     };
   });
   option = {
