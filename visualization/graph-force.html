@@ -41,10 +41,9 @@
     var option;
 
     myChart.showLoading();
-$.get('mydata_all.json', function (graph) {
-// $.get('https://pastebin.com/raw/t5wENCvA', function (graph) { //AV少一点的数据
-// $.get('https://pastebin.com/raw/KUvMXP05', function (graph) { //AV多一点的数据
-// $.get('https://pastebin.com/raw/PB2RgYnA', function (graph) { //V-sub
+// $.get(ROOT_PATH + '/data/asset/data/les-miserables.json', function (graph) {
+// $.get('https://raw.githubusercontent.com/SummerXIATIAN/bili-community-detection/master/visualization/mydata_all.json', function (graph) { 
+$.get('https://pastebin.com/uUNTbpFW', function (graph) { 
   myChart.hideLoading();
   graph.nodes.forEach(function (node) {
     node.label = {
