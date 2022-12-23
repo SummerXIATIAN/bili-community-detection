@@ -29,8 +29,8 @@ This notebook is used to get all active viewers(fans) of each streamer that coll
 
 For real usage, you can run the `p2_xxx.py` script to get the same result in a faster way. It uses multi-processing to speed up the process.
 
-### 3. p3_cal_common_fans.ipynb (Do not need to run--It takes a lot of time)
-This notebook is used to calculate the common (overlapping) viewers of each pair of streamers. For each streamer, we save the result in a csv file named by its name to the `./data/result` folder. Eventually, we concat all the csv files to a single csv file named `result.csv` in the `./data` folder.
+### 3. p3_cal_common_fans.ipynb (Do not run all the data--It takes a lot of time)
+This notebook is used to calculate the common (overlapping) viewers of each pair of streamers. For each streamer, we save the result in a csv file named by its name to the `./data/result` folder. Eventually, we concat all the csv files to a single csv file named `result.csv` in the `./data` folder. We add a limit of scope in line 5 to reduce the running time. You can change the limit to get the result of all streamers.
 
 ### 4. p4_clustering.ipynb
 This notebook contains two parts: **Data preprocessing** and **Community Detection**. In the first part, we filter streamers with scale and add extra attributes. In the second part, we use iGraph package to build the network and use the `leiden` algorithm to detect communities. Basic visualization is also included. In the end, we save the information of nodes and edges to the `./data` folder.
