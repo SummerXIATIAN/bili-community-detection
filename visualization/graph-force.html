@@ -43,8 +43,8 @@
     myChart.showLoading();
 // $.get(ROOT_PATH + '/data/asset/data/les-miserables.json', function (graph) {
 // $.get('https://raw.githubusercontent.com/SummerXIATIAN/bili-community-detection/master/visualization/mydata_all.json', function (graph) { 
-$.get('https://raw.githubusercontent.com/SummerXIATIAN/bili-community-detection/master/visualization/mydata.json', function (graph) { 
-// $.get('https://pastebin.com/raw/uUNTbpFW', function (graph) { 
+// $.get('https://raw.githubusercontent.com/SummerXIATIAN/bili-community-detection/master/visualization/mydata.json', function (graph) { 
+$.get('https://raw.githubusercontent.com/SummerXIATIAN/bili-community-detection/master/visualization/mydata_old.json', function (graph) { 
   myChart.hideLoading();
   graph.nodes.forEach(function (node) {
     node.label = {

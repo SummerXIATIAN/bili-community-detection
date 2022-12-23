@@ -4,7 +4,7 @@ This is a project for Social Web course. We use the data from Bilibili live to d
 
 ## Execution Instructions
 
-`git clone` this repository, open and run the **jupyter notebooks** in an order of **p1**, **p2** to **p5**. 
+`git clone` this repository, open and run the **jupyter notebooks** in an order of **p1**, **p2** to **p6**. 
 
 Since some notebooks involve a large number of web page requests and long time calculations, we have decoupled them from each other and saved all middleware (`.csv`) to facilitate the presentation of results.
 
@@ -37,6 +37,9 @@ This notebook contains two parts: **Data preprocessing** and **Community Detecti
 
 ### 5. p5_export_js.ipynb (Do not need to run)
 This is an auxiliary notebook used to transform the data of nodes and edges to `.js` or `.json` format that can be used in the visualization webpages.
+
+### 6. p6_plots_eval.ipynb 
+This notebook is used to draw the plots in the report and evaluate the performance of each of the community detection algorithm.
 
 
 ## Visualization
