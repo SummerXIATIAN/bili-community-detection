@@ -21,6 +21,8 @@ Please read the **Workflow** section below to avoid the long running time that m
 
 ## Workflow
 
+Explaination and motivation of the code are in the code comment at the beginning of each code cell. Markdown cells are used to divide the code into different parts.
+
 ### 1. p1_get_streamers.ipynb
 This notebook is used to get the streamers' information from *Bilibili* and *vtb.moe* via their APIs. It will generate a csv file named `streamer_info.csv` in the `./data` folder. 
 
